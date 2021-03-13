@@ -1,0 +1,100 @@
+body {
+            font-family: 'Lato';
+             /*background-image: url("images/background.png"); background-repeat: repeat;*/
+             background-color: black;
+    
+        }
+
+a {
+	color: #aa0014;
+	text-decoration: none;
+}
+a:hover {
+	color: #e31313;
+	text-decoration: none;	
+}
+.info-table td {
+ text-align: center;
+    color: black;
+}
+.info-table th {
+ text-align: center;
+    color: #7DA600;
+}
+.info-table i {
+	color: #7DA600;
+}
+.page-header h4 {
+	color: wheat;
+}
+
+.background {
+	/*background-image: url("images/background.png");
+	background-repeat: repeat;*/
+	background: black;
+	margin-top: -25px;
+ }
+.container {
+	background-image:url("images/broken-heart.jpg"); background-repeat: repeat;
+    
+}
+.content-fixer{ 
+	margin-top: 30px; 
+ }
+ .border {
+ 	
+    border-top-right-radius: 1em;
+    border-top-left-radius: 1em;
+ 	 }
+ .content-min{
+ 	min-height: 610px;
+
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+ }
+.panel  {
+	margin-top: 30px;
+  
+}
+.logo{
+	width: 110px;
+	height: 30px;
+	margin-top: -5px;
+}
+.header-nav {
+	background-color:black; 
+ 
+}
+
+#input-field {
+	width: 100%;
+}
+
+.camps {
+	margin:15px;
+}
+
+.panel-content {
+	margin:15px;
+    
+}
+
+ .fa-btn {
+            margin-right: 6px;
+ }
+ 
+ .footer-nav
+ {
+     	margin-bottom: 25px;
+ }
+.footer-nav-item {
+	padding-right: 15px;
+    color: beige;
+}
+.this{
+    color: aliceblue;
+    font-size: 1.5em;
+}
+.table{
+    background-color: white;
+}
