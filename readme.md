@@ -52,5 +52,5 @@ Completed 🥳
 - Laravel
 - Bootstrap
 - Jquery 
-- Smshorizon.in
+
 
